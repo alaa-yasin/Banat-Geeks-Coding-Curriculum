@@ -1,0 +1,38 @@
+## Day 1
+
+- 01:00 - 4:00
+  - Welcome talk
+  - Introduction to the course
+  - Tips to succeed in this course
+  - Who Am I?
+  - why was this course created?
+  - Go through 12 days
+  - Tools
+    - the browser
+    - the editor
+    - trusted resources
+  - Introduction to Web Development
+  - Basic HTML
+    - tags
+    - types of tags
+    - comments
+    - Exercise
+  - Attributes
+  - Classes
+  - IDs
+  - Naming and Tags to Use
+  - Meta HTML
+  - Basic CSS
+    - style
+    - parents and Children
+    - Exercise
+  - CSS Selectors and the Cascade
+  - IDs and !important
+  - Pseudoclasses
+  - Pseudoelements
+  - CSS Layout
+  - Effective Patterns for Writing CSS
+    - Connecting CSS and HTML
+    - When to Actually Use the Cascade
+    - DevTools
+  - Project: HTML & CSS
