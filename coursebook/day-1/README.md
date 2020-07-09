@@ -1,20 +1,21 @@
-# Day 1: Setup & Basic HTML Day
+# Setup & Basic HTML Day
 
-# Contents
+## Contents
 
 - [Learning Outcomes]()
 - [Research topics]()
-- [Project]()
 - [Resources](./resources.md)
+
+## Day 1:
 
 - 01:30 - 2:00
 
   - Welcome talk
   - Introduction to the course
-  - [Tips to succeed in this course](./tips.md)
-  - Who Am I?
   - why was this course created?
-  - Go through two weeks
+  - Who Am I?
+  - [Tips to succeed in this course](./tips.md)
+  - Go through two weeks curriculum
 
 - 2:00 - 2:30 — [Tools](./tools.md)
 
