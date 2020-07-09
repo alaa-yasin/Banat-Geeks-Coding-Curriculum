@@ -1,8 +1,6 @@
 # Tools
 
-## Through our learning journey, we need some tools.
-
-## Let's download them.
+### Through our learning journey, we need some tools. Let's download them.
 
 1- browser
 
