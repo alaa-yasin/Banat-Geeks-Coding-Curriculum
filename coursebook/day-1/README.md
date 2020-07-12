@@ -21,7 +21,7 @@
 
 - 2:30 - 3:00 — Introduction to Web Development
 
-* Basic HTML
+* [Basic HTML](https://btholt.github.io/intro-to-web-dev-v2/basic-html)
   - tags
   - types of tags
   - comments
