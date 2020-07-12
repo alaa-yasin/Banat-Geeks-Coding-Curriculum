@@ -15,7 +15,7 @@
   - why was this course created?
   - Who Am I?
   - [Tips to succeed in this course](./tips.md)
-  - Go through two weeks [curriculum](../coursebook)
+  - Go through two weeks [curriculum](../coursebook/README.md)
 
 - 2:00 - 2:30 — [Tools](./tools.md)
 
