@@ -1,12 +1,4 @@
-# Setup & Basic HTML Day
-
-## Contents
-
-- [Learning Outcomes]()
-- [Research topics]()
-- [Resources](./resources.md)
-
-## Day 1:
+# Day 1: Setup & Basic HTML Day
 
 - 01:30 - 2:00
 
