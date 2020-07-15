@@ -10,5 +10,6 @@
 
 - [Visual studio text editor](https://code.visualstudio.com/)
 
-3- Open Source Platform
-- [GitHub](https://github.com)
+3- [GitHub](https://github.com)
+
+4- [Discord](https://discord.gg/7Rkse2)
