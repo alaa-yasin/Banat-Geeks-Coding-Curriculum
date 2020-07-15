@@ -1,4 +1,4 @@
-# Day 1: Setup & Basic HTML Day
+# Day 1: Setup & Intro to Web Development
 
 - 01:30 - 2:00
 
