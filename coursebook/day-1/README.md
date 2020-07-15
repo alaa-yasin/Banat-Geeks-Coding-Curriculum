@@ -5,9 +5,10 @@
   - Welcome talk
   - Introduction to the course
   - why was this course created?
+  - Go through two weeks [curriculum](../)
   - Who Am I?
   - [Tips to succeed in this course](./tips.md)
-  - Go through two weeks [curriculum](../)
+
 
 - 2:00 - 2:30 — [Tools](./tools.md)
 
