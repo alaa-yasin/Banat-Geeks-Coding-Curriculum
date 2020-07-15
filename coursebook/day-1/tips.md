@@ -23,3 +23,6 @@
 11. Get into the Habit of Chunking
 
 12. Break someone else's code
+
+The resource: 
+https://www.udemy.com/course/the-complete-web-development-bootcamp/
