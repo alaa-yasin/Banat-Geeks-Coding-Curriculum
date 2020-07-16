@@ -10,4 +10,4 @@
   - [Tips to succeed in this course](./tips.md)
 
 
-- 2:00 - 2:30 — [Tools](./tools.md)
+- 2:00 - 4:00 — [Tools](./tools.md)
