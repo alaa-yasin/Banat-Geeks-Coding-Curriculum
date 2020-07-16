@@ -10,4 +10,4 @@
   - go to extensions in visual studio
   - type name of extension
   - press on ```install```
-- right click on your ```index.html``` file and click ```open in browser```
+- right click on your ```index.html``` file and click ```open in other browsers``` and choose your browser
