@@ -5,9 +5,6 @@
   - tags
   - types of tags
   - comments
-  - Exercise
-  - homework
-
 - 3:00 - 3:15 — FizzBuzz Energizer
 - 3:15 - 3:50 — [Exercise](./exercise.md)
 - 3:50 - 3:55 — [Homework](./homework.md)
