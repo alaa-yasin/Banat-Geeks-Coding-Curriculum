@@ -6,3 +6,4 @@
 - phone number
 - password
 - select with two options: female or male
+- button
