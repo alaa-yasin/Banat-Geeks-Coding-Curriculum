@@ -1,8 +1,8 @@
 # Coursebook
 
 - [day 1](day-1) - Setup & Intro to Web Development
-- [day 2](day-2) - Basic HTML
-- [day 3](day-3) - HTML Next Steps
+- [day 2](day-2) - Basic HTML 1
+- [day 3](day-3) - Basic HTML 2
 - [day 4](day-4) - Meta HTML
 - [day 5](day-5) - Basic CSS
 - [day 6](day-6) - CSS Selectors and the Cascade
