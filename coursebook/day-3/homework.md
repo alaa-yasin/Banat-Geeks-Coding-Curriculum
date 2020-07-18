@@ -5,5 +5,5 @@
 - email
 - phone number
 - password
-- select with two options: female or male
+- select with 5 options: country
 - button
