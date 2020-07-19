@@ -1,6 +1,10 @@
 # Intermediate HTML 
 - 1:30 - 1:45 — show students' work and honor the best work
 - 1:45 - 2:00 — discuss Saturday's homework
+  - input (radio buttons)
+  - select and option
+  - required
+  - image
 - 2:00 - 2:45 — [Intermediate HTML](https://btholt.github.io/intro-to-web-dev-v2/html-next-steps)
   - Attributes
   - classes
