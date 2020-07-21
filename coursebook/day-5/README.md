@@ -13,4 +13,3 @@
     - border & border-radius
 - 2:50 - 3:00 — Guess the song Energizer
 - 3:00 - 3:50 — [Exercise](./exercise)
-- 3:50 - 4:00 — [Homework](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/) until **Use an id Attribute to Style an Element** (15 questions)
